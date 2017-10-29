@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import AppListOne from '@/components/AppListOne.vue';
-import AppListTwo from '@/components/AppListTwo.vue';
+import AppListOne from '~/components/AppListOne.vue';
+import AppListTwo from '~/components/AppListTwo.vue';
 
 export default {
   components: {
