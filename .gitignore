@@ -3,9 +3,33 @@ node_modules
 
 # logs
 npm-debug.log
+yarn-error.log
+*.log
 
 # Nuxt build
 .nuxt
 
 # Nuxt generate
 dist
+
+# MacOSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor directories and files
+.idea
+*.swp
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Yarn Integrity file
+.yarn-integrity
